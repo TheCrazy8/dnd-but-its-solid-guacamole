@@ -14,3 +14,6 @@ Adds subclass suggestions from the campaign working catalog, combat dice rolls w
 
 ## v1.3
 Adds spell slot expenditure, cast history, configurable resources, rest actions and a searchable class/subclass library with custom entries. Existing local storage key is unchanged. Hit Dice recovery, prerequisites, preparation, special rest rules and concentration remain manual. Export a backup before upgrading. No external rules database is bundled.
+
+## v1.4 Automatic statistics
+Open Automatic statistics and enable HP, AC and magic calculations individually. Existing characters default to manual. Fixed-average HP assumes the first listed class was taken first. Third-party hit dice must be entered in Classes; third-party caster contributions and special AC formulas require overrides. Export a backup before enabling automation. No live browser testing performed.
