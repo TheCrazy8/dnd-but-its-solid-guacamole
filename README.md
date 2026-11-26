@@ -17,3 +17,6 @@ Adds spell slot expenditure, cast history, configurable resources, rest actions 
 
 ## v1.4 Automatic statistics
 Open Automatic statistics and enable HP, AC and magic calculations individually. Existing characters default to manual. Fixed-average HP assumes the first listed class was taken first. Third-party hit dice must be entered in Classes; third-party caster contributions and special AC formulas require overrides. Export a backup before enabling automation. No live browser testing performed.
+
+## v1.5
+Combat automation tab: calculated weapon attacks, finesse, proficiency, magic bonuses, optional melee flanking, normal and Crunchy Critical damage, temporary HP, healing and death saves. Damage resistance, massive damage, critical damage at zero HP, potion inventory consumption and special features remain manual. Existing storage key unchanged.
