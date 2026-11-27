@@ -20,3 +20,9 @@ Open Automatic statistics and enable HP, AC and magic calculations individually.
 
 ## v1.5
 Combat automation tab: calculated weapon attacks, finesse, proficiency, magic bonuses, optional melee flanking, normal and Crunchy Critical damage, temporary HP, healing and death saves. Damage resistance, massive damage, critical damage at zero HP, potion inventory consumption and special features remain manual. Existing storage key unchanged.
+
+## v1.6
+Opt-in Character features tab: core backgrounds, starting class saves, Tough, selected armor, selected class resources and feature summaries. Manual third-party effects remain supported.
+
+## v1.7
+Origins & heritage tab: opt-in core background ability allocations, species speed and vision reference, heritage selection budget, class skill grants, Tough detection, defense records and level-gated custom subclass records. Remove duplicate manual background bonuses before enabling. Third-party effects and prerequisites are not encoded. Existing save key retained.
