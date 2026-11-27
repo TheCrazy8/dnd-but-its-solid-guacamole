@@ -26,3 +26,6 @@ Opt-in Character features tab: core backgrounds, starting class saves, Tough, se
 
 ## v1.7
 Origins & heritage tab: opt-in core background ability allocations, species speed and vision reference, heritage selection budget, class skill grants, Tough detection, defense records and level-gated custom subclass records. Remove duplicate manual background bonuses before enabling. Third-party effects and prerequisites are not encoded. Existing save key retained.
+
+## v1.8 Mechanical effects
+New Mechanical effects tab: reversible per-character effects with optional class-level gates. Supports ability scores, proficiency/expertise, saves, HP/AC, initiative, speed, spell and weapon modifiers, and defense records. Use exact target names or All. Enable manually when applicable; no automatic attunement or condition evaluation. Numeric effects stack, so avoid duplicates. HP/AC require automatic statistics. Existing storage key unchanged.
